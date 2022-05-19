@@ -19,15 +19,15 @@
  | foot | G2, G4 math | postfix unit<br/>msup | mi ft<br/>msup ' | feet |  | https://www.khanacademy.org/math/cc-2nd-grade-math | 
  | inch | G2, G4 math | postfix unit<br/>msup | mi in<br/>msup '' | inches |  | https://www.khanacademy.org/math/cc-2nd-grade-math | 
  | times | G3 math | infix | mo ×<br/>mo *<br/>mo ·<br/>mo •<br/>mo . |  | $1 times $2<br/>$1 multiplied by $2 | https://www.khanacademy.org/math/cc-third-grade-math<br/><br/>https://youtu.be/1P_cjOtWBkM?t=774<br/> | 
- | delimited-subexpression?<br/>parenthetical?<br/>fenced-group? | G3, G6 math<br/> | fenced | mrow ( ... ) <br/>mrow [ ... ] |  |  | https://www.khanacademy.org/math/cc-third-grade-math<br/><br/>https://youtu.be/AhnJtTI_DMM | 
+ | delimited-subexpression?<br/>parenthetical?<br/>fenced-group? | G3, G6 math<br/> | fenced | mrow ( ... )<br/>mrow [ ... ] |  |  | https://www.khanacademy.org/math/cc-third-grade-math<br/><br/>https://youtu.be/AhnJtTI_DMM | 
  | blank | G3 math | symbol | mi ?<br/>mi 😊<br/>mi ⭑ | missing, unknown |  | https://www.khanacademy.org/math/cc-third-grade-math | 
  | divide | G3 math | infix | mo ÷<br/>mo /<br/>mo : |  |  | https://www.khanacademy.org/math/cc-third-grade-math<br/><br/>https://youtu.be/SzjgcUesBWo?t=63 | 
- | fraction | G3 math | 2D  | mfrac |  | $1 over $2<br/>$1 divided by $2<br/>the ratio of $1 and $2 | https://www.khanacademy.org/math/cc-third-grade-math | 
+ | fraction | G3 math | 2D | mfrac |  | $1 over $2<br/>$1 divided by $2<br/>the ratio of $1 and $2 | https://www.khanacademy.org/math/cc-third-grade-math | 
  | unit | G3 math | postfix unit | mi tens<br/>mi unit<br/>mi parts<br/>mi acorns<br/>mi gnus<br/>mi pieces |  |  | https://www.khanacademy.org/math/cc-third-grade-math | 
  | approximately | G3 math | infix | mo ≈<br/>mo ~ | roughly |  | https://www.khanacademy.org/math/cc-third-grade-math | 
  | number-of | G3 math | prefix | mo # |  |  | https://www.khanacademy.org/math/cc-third-grade-math | 
  | list-separator | G3 math | infix | mo , |  | $1 $2<br/>$1 and $2 | https://www.khanacademy.org/math/cc-third-grade-math | 
- | ellipsis | G3 math | symbol | mo ...<br/>mo …<br/>mo ⋮<br/>mo ⋯ |  | $1 and so on<br/>$1 keep going<br/>$1 on and on and on and on <br/>$1 and we just go like that forever and ever and ever<br/>$1 et cetera<br/><br/>$1 all the way (to $2)<br/>$1 and so on (upto $2)<br/>$1 dot dot dot ($2) | https://www.khanacademy.org/math/cc-third-grade-math<br/><br/>https://youtu.be/W-Nio466Ek4?t=177 | 
+ | ellipsis | G3 math | symbol | mo ...<br/>mo …<br/>mo ⋮<br/>mo ⋯ |  | $1 and so on<br/>$1 keep going<br/>$1 on and on and on and on<br/>$1 and we just go like that forever and ever and ever<br/>$1 et cetera<br/><br/>$1 all the way (to $2)<br/>$1 and so on (upto $2)<br/>$1 dot dot dot ($2) | https://www.khanacademy.org/math/cc-third-grade-math<br/><br/>https://youtu.be/W-Nio466Ek4?t=177 | 
  | focus | G3 math | enclosed | menclose notation="box" |  |  | https://www.khanacademy.org/math/cc-third-grade-math | 
  | ordinal-mark | G3 math | msup | msup th<br/>msup rd<br/>msup nd |  |  | https://www.khanacademy.org/math/cc-third-grade-math | 
  | gram | G3 math | postfix unit | mi g |  |  | https://www.khanacademy.org/math/cc-third-grade-math | 
@@ -41,13 +41,13 @@
  | variable | G4 math | symbol | mi x<br/>mi y<br/>mi z<br/>mi i<br/>mi 2 |  |  | https://www.khanacademy.org/math/cc-fourth-grade-math<br/><br/>https://youtu.be/L1c0SP4W4ro?t=145 | 
  | least-common-denominator | G4 math | function | LCM |  |  | https://www.khanacademy.org/math/cc-fourth-grade-math | 
  | degrees | G4 math | msup | msup $1 ° |  |  | https://www.khanacademy.org/math/cc-fourth-grade-math | 
- | angle | G4 math | prefix | mo ∠<br/>mo ∡ | angle  |  | https://www.khanacademy.org/math/cc-fourth-grade-math<br/><br/>https://youtu.be/JyyE7lDEKdA?t=1771 | 
+ | angle | G4 math | prefix | mo ∠<br/>mo ∡ | angle |  | https://www.khanacademy.org/math/cc-fourth-grade-math<br/><br/>https://youtu.be/JyyE7lDEKdA?t=1771 | 
  | measure-of-angle | G4 math | prefix | m∠ ABC |  |  |  | 
  | pound | G4 math | postfix unit | mi lb.<br/>mi lb<br/>mi lbs |  |  | https://www.khanacademy.org/math/cc-fourth-grade-math | 
  | ton | G4 math | postfix unit | mi T |  |  | https://www.khanacademy.org/math/cc-fourth-grade-math | 
  | ounce | G4 math | postfix unit | mi oz |  |  | https://www.khanacademy.org/math/cc-fourth-grade-math | 
  | day-period | G4 math | postfix unit | mi AM<br/>mi a.m.<br/>mi PM<br/>mi p.m. |  |  | https://www.khanacademy.org/math/cc-fourth-grade-math | 
- | line-segment | G4 math | mover<br/>concat | mover  $1 ¯<br/><br/>mrow $1 $2 |  | $1<br/>segment $1<br/><br/>$1 $2<br/>segment $1 $2<br/>side $1 $2 | https://www.khanacademy.org/math/cc-fourth-grade-math<br/><br/>https://youtu.be/JyyE7lDEKdA?t=1893 | 
+ | line-segment | G4 math | mover<br/>concat | mover $1 ¯<br/><br/>mrow $1 $2 |  | $1<br/>segment $1<br/><br/>$1 $2<br/>segment $1 $2<br/>side $1 $2 | https://www.khanacademy.org/math/cc-fourth-grade-math<br/><br/>https://youtu.be/JyyE7lDEKdA?t=1893 | 
  | power | G5 math | msup | msup $1 $2 |  | $1 to the $2<br/>$1 to the $2 power<br/>$1 and then that raised to the $2 power | https://www.khanacademy.org/math/cc-fifth-grade-math<br/><br/>https://youtu.be/YbNVUhW-HJM?t=19<br/>https://youtu.be/SM6XZj5dPQQ?t=195 | 
  | point | G5 math | fenced | mrow ($1, $2)<br/><br/>mrow ($1 ; $2 ) | coordinate<br/>cartesian-coordinate | $1 $2<br/>$1 comma $2<br/>point $1 comma $2<br/>coordinates $1 comma $2 | https://www.khanacademy.org/math/cc-fifth-grade-math<br/><br/>https://youtu.be/7nE8hRnb_0E?t=2282 | 
  | ratio | G6 math | infix | mo : |  | $1 to $2<br/>ratio $1 to $2<br/> | https://www.khanacademy.org/math/cc-sixth-grade-math/ | 
@@ -59,7 +59,7 @@
  | least-common-multiple | G6 math | function | mi lcm<br/>mi LCM |  |  | https://www.khanacademy.org/math/cc-sixth-grade-math/ | 
  | greatest-common-divisor | G6 math | function | mi gcd<br/>mi GCD<br/>mi gcf<br/>mi GCF | greatest-common-factor<br/> |  | https://www.khanacademy.org/math/cc-sixth-grade-math/ | 
  | evaluates-to | G6 math | infix | mo → |  |  | https://www.khanacademy.org/math/cc-sixth-grade-math/ | 
- | point-at | G6 math | mixfix | mrow $1($2,$3) |  | point $1 at $2 comma $3<br/>point $1 which has<br/>   the coordinates $2 comma $3 | https://www.khanacademy.org/math/cc-sixth-grade-math/<br/><br/>https://youtu.be/S6BHQMk8C_A | 
+ | point-at | G6 math | mixfix | mrow $1($2,$3) |  | point $1at$2 comma $3<br/>point $1 which has<br/>the coordinates $2 comma $3 | https://www.khanacademy.org/math/cc-sixth-grade-math/<br/><br/>https://youtu.be/S6BHQMk8C_A | 
  | set | G6 math | fenced | mrow { ... } |  | $1<br/>set of $1 | https://www.khanacademy.org/math/cc-sixth-grade-math/ | 
  | mean-absolute-deviation | G6 math | symbol | mi MAD |  |  | https://www.khanacademy.org/math/cc-sixth-grade-math/ | 
  | celsius | G6 math | postfix unit | mi C |  |  | https://www.khanacademy.org/math/cc-sixth-grade-math/ | 
@@ -71,8 +71,8 @@
  | square-root | G8 math | msqrt | msqrt | principle-root | square-root of $1<br/>principle root of $1 | https://www.khanacademy.org/math/cc-eighth-grade-math<br/><br/>https://youtu.be/qFFhdLlX220?t=58 | 
  | root | G8 math | mroot | mroot |  |  | https://www.khanacademy.org/math/cc-eighth-grade-math | 
  | change | G8 math<br/><br/>highschool physics | function | mi Δ | displacement | delta $1<br/>change in $1 | https://www.khanacademy.org/math/cc-eighth-grade-math<br/><br/>https://youtu.be/24WMbh1BBKc<br/><br/>https://youtu.be/Dzw2nLd7DFw?t=113 | 
- | distance | G8 math | symbol | mi d<br/>mi D |  | distance between $1 and $2 | https://www.khanacademy.org/math/cc-eighth-grade-math<br/><br/>https://youtu.be/S6BHQMk8C_A?t=88 | 
- | triangle | G8 math | prefix | mrow △ $1$2$3  |  |  | https://www.khanacademy.org/math/cc-eighth-grade-math | 
+ | distance | G8 math | symbol | mi d<br/>mi D |  | distancebetween$1 and $2 | https://www.khanacademy.org/math/cc-eighth-grade-math<br/><br/>https://youtu.be/S6BHQMk8C_A?t=88 | 
+ | triangle | G8 math | prefix | mrow △ $1$2$3 |  |  | https://www.khanacademy.org/math/cc-eighth-grade-math | 
  | square | G8 math | prefix | mrow □ $1$2$3$4 |  |  | https://www.khanacademy.org/math/cc-eighth-grade-math | 
  | rectangle | G8 math | prefix | mrow ▭ $1$2$3$4 |  |  | https://www.khanacademy.org/math/cc-eighth-grade-math | 
  | volume | G8 math | symbol | mi V |  |  | https://www.khanacademy.org/math/cc-eighth-grade-math | 
@@ -101,8 +101,8 @@
  | progression | algebra 1 | fenced | { $1, $2 ... $n }<br/><br/>( msub $1 $2 ) | sequence |  | https://youtu.be/_cooC3yG_p0?t=38 | 
  | plus-or-minus | algebra 1 | infix<br/>prefix | mo ± | plus-minus |  | https://youtu.be/naVFTNWVlQU?t=106 | 
  | discriminant | algebra 1 | symbol | mi D |  |  | https://artofproblemsolving.com/wiki/index.php/Discriminant | 
- | annotation? | algebra 1 | munder<br/>mover | munder <br/>  munder $1 ⏟  <br/>  $2<br/><br/>mover <br/>  mover $1 ⏞ <br/>  $2 |  | $1, call it $2,<br/>$1, expressed as $2,<br/>$1, which is $2, | https://youtu.be/pPM72fPwIjw?t=32<br/><br/>https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-calc-intro/a/accumulation-and-net-change-in-context?modal=1<br/><br/>https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-u-sub/a/review-applying-u-substitution?modal=1<br/><br/>https://wikimedia.org/api/rest_v1/media/math/render/svg/ed9e4ee62efb585271572cbf0fd9149c90a400fd | 
- | braced-group? | general |  | munder $1 ⏟  <br/><br/>mover $1 ⏞ <br/> |  | start-braced-group $1 end-braced-group? | https://www.cut-the-knot.org/arithmetic/algebra/TriPiInPascal.shtml | 
+ | annotation? | algebra 1 | munder<br/>mover | munder<br/>munder $1 ⏟<br/>$2<br/><br/>mover<br/>mover $1 ⏞<br/>$2 |  | $1, call it $2,<br/>$1, expressed as $2,<br/>$1, which is $2, | https://youtu.be/pPM72fPwIjw?t=32<br/><br/>https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-calc-intro/a/accumulation-and-net-change-in-context?modal=1<br/><br/>https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-u-sub/a/review-applying-u-substitution?modal=1<br/><br/>https://wikimedia.org/api/rest_v1/media/math/render/svg/ed9e4ee62efb585271572cbf0fd9149c90a400fd | 
+ | braced-group? | general |  | munder $1 ⏟<br/><br/>mover $1 ⏞<br/> |  | start-braced-group $1 end-braced-group? | https://www.cut-the-knot.org/arithmetic/algebra/TriPiInPascal.shtml | 
  | implies | algebra 1 | infix | mo ⇒ |  | $1 implies $2<br/>$1 which implies $2<br/>$1 . This tells us $2<br/>if $1 we get $2<br/>$1 lets us know that $2<br/>$1, so $2<br/>$1 suggests $2<br/>$1 thus $2 | https://youtu.be/mX91_3GQqLY?t=206 | 
  | piecewise | algebra 2 | mtable | { mtable |  | ... 2 cases, case 1 ..., case 2 ..., ... |  | 
  | final | algebra 2 | symbol | msub $1 mi f |  | $1 final | https://youtu.be/9COoRE8pc5k?t=39 | 
@@ -131,7 +131,7 @@
  | triangle-similarity? | high school geometry | infix | mo ~ |  | $1 is similar to $2 | https://youtu.be/9ThXDY9Y3oU?t=93<br/><br/>https://www.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-congruence-theorems/a/properties-of-congruence-and-equality?modal=1<br/><br/>https://youtu.be/VXlFEilh-cw?t=1254 | 
  | perpendicular | high school geometry | infix | mo ⟂ |  | $1 is perpendicular to $2 | https://youtu.be/7UISwx2Mr4c?t=389 | 
  | area | high school geometry | fenced | mrow [ $1 ... $n ] |  | area of $1 $2 ... $n | https://youtu.be/3FManXv4mZM | 
- | arc | high school geometry | mover | mover  ⌒ |  |  | https://youtu.be/3n0LvI99-KM?t=27<br/><br/>https://youtu.be/U2W7HPyC0cM?t=628 | 
+ | arc | high school geometry | mover | mover ⌒ |  |  | https://youtu.be/3n0LvI99-KM?t=27<br/><br/>https://youtu.be/U2W7HPyC0cM?t=628 | 
  | circle | high school geometry | prefix | mo ◯<br/> |  |  | https://youtu.be/3n0LvI99-KM?t=32 | 
  | side-angle-side | high school geometry | symbol | mi SAS |  |  | https://youtu.be/3n0LvI99-KM?t=184<br/><br/>https://youtu.be/7bO0TmJ6Ba4?t=152 | 
  | angle-angle | high school geometry | symbol | mi AA |  |  | https://youtu.be/7bO0TmJ6Ba4?t=152 | 
@@ -169,7 +169,7 @@
  | intersection | set theory | infix<br/>indexed operator | mo ∩<br/>mo ⋂ |  | $1 intersect $2<br/>$1 intersected with $2<br/>the intersection of $1 and $2<br/>$1 and $2 | https://youtu.be/VjLEoo3hIoM?t=146<br/>https://youtu.be/xPUm5SUVzTE?t=288 | 
  | union | set theory | infix<br/>indexed operator | mo ∪<br/>mo ⋃ |  | $1 union $2<br/>the union of $1 and $2<br/>$1 or $2 | https://youtu.be/jAfNg3ylZAI?t=183 | 
  | set-difference | set theory | infix | mo \<br/>mo - | relative-complement | $1 minus $2<br/>$2 subtracted from $1<br/>the difference between $1 and $2<br/>the relative complement of $2 in $1 | https://youtu.be/2B4EBvVvf9w?t=135<br/>https://mathworld.wolfram.com/SetDifference.html<br/>https://en.wikipedia.org/wiki/Complement_(set_theory)#Relative_complement<br/> | 
- | absolute-complement | set theory | msup<br/>mover<br/>function | msup $1 ′<br/>msup $1 C<br/>mover $1 ¯<br/>mrow ∁ $1<br/>mrow msub  ∁ U /msub $1 | complement |  | https://youtu.be/OCNXS_m1HWU?t=118<br/><br/>https://en.wikipedia.org/wiki/Complement_(set_theory)<br/>https://mathworld.wolfram.com/Complement.html<br/>https://en.wikipedia.org/wiki/Complementary_event<br/>https://en.wikipedia.org/wiki/Arrangement_of_hyperplanes<br/>https://en.wikipedia.org/wiki/Complement_(complexity)<br/>https://en.wikipedia.org/wiki/Complement_graph<br/>https://ncatlab.org/nlab/show/complement | 
+ | absolute-complement | set theory | msup<br/>mover<br/>function | msup $1 ′<br/>msup $1 C<br/>mover $1 ¯<br/>mrow ∁ $1<br/>mrow msub ∁ U /msub $1 | complement |  | https://youtu.be/OCNXS_m1HWU?t=118<br/><br/>https://en.wikipedia.org/wiki/Complement_(set_theory)<br/>https://mathworld.wolfram.com/Complement.html<br/>https://en.wikipedia.org/wiki/Complementary_event<br/>https://en.wikipedia.org/wiki/Arrangement_of_hyperplanes<br/>https://en.wikipedia.org/wiki/Complement_(complexity)<br/>https://en.wikipedia.org/wiki/Complement_graph<br/>https://ncatlab.org/nlab/show/complement | 
  | empty-set | set theory | symbol | mrow { }<br/>mi ∅<br/> |  |  | <br/>https://en.wikipedia.org/wiki/Empty_set | 
  | number-set | set theory | symbol or msup symbol numer/+ |  |  | Integers, positive integers, Z 2 | Maybe break this into lots of names: Integers, Reals, Complexes, ... | 
  | conditional-probability? | precalculus | infix | mo | | given | $1 given $2<br/> | https://youtu.be/VjLEoo3hIoM?t=244 | 
@@ -180,15 +180,15 @@
  | sum | integral calculus | prefix | mo ∑ |  |  | https://youtu.be/__Uw1SXPW7s?t=110<br/>https://youtu.be/5jwXThH6fg4 | 
  | integral | integral calculus | prefix | mo ∫ |  |  | https://youtu.be/__Uw1SXPW7s?t=189 | 
  | operator-range | integral calculus | msubsup<br/>munderover | msubsup $1 $2 $3<br/>munderover $1 $2 $3<br/><br/>msubsup $1 mrow $2=$3 mrow $4<br/>munderover $1 mrow $2=$3 mrow $4 | range | $1 from $2 to $3<br/><br/>$1 with $2 going from $3 to $4 | https://youtu.be/__Uw1SXPW7s?t=189<br/>https://youtu.be/5jwXThH6fg4 | 
- | derivative-operator | integral calculus | prefix | mfrac<br/> d<br/> d $1 | leibniz-notation | derivative with respect to $1 of $2<br/>derivative of $2 with respect to $1 | https://youtu.be/MMv-027KEqU | 
+ | derivative-operator | integral calculus | prefix | mfrac<br/>d<br/>d $1 | leibniz-notation | derivative with respect to $1 of $2<br/>derivative of $2 with respect to $1 | https://youtu.be/MMv-027KEqU | 
  | evaluate | integral calculus | indexed postfix<br/>indexed fenced | $1 msubsup mo | $2 $3<br/><br/>msubsup mrow [ $1 ] /mrow $2 $3<br/><br/>msub $1 | $2<br/>msub $1 | x=$2 |  | $1 evaluated at $3 and at $2<br/>$1 evaluated from $2 to $3<br/>$1 evaluated at its bounds $3 and $2<br/>$1 evaluated at $3 and evaluated at $2<br/>$1 evaluated at $2<br/>$1 evaulated at x=$2 | https://youtu.be/4WJUEXIksH0?t=170<br/>https://youtu.be/auOcNZFKfo0?t=79<br/>https://youtu.be/auOcNZFKfo0?t=167<br/>https://youtu.be/ldLdWj6DLTw?t=104<br/>https://youtu.be/0rzL08BHr5c?t=193<br/><br/>https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-u-sub/a/u-substitution-definite-integrals?modal=1 | 
  | second-derivative | integral calculus | msup | msup ′′<br/>msup '' |  | $1 prime prime<br/>second derivative of $1 | https://youtu.be/6o7b9yyhH7k?t=24 | 
  | transform? | integral calculus | mover | mover → $1 |  | take $1 | https://youtu.be/sLw902V40L0 | 
  | velocity | integral calculus | function | mi v |  | v of $1<br/>velocity at time $1 | https://youtu.be/sLw902V40L0?t=216 | 
  | acceleration | integral calculus | function | mi a |  | a of $1<br/>acceleration at time $1 | https://youtu.be/sLw902V40L0?t=216 | 
  | position | integral calculus | function | mi s |  | s of $1<br/>position at time $1 | https://youtu.be/sLw902V40L0?t=216 | 
- | average | integral calculus<br/><br/>highschool physics | abbreviation<br/><br/>mover | mi avg<br/><br/>mover  $1 ¯ |  |  | https://youtu.be/wdAgEzdkFZI?t=20<br/><br/>https://www.khanacademy.org/science/high-school-physics/one-dimensional-motion-2/average-and-instantaneous-acceleration-2/a/acceleration-review-article-ap1?modal=1 | 
- | repeating-digits | integral calculus | mstack | mstack msline  $1  |  | $1 repeating<br/>where the digits $1 keep on repeating | https://youtu.be/2BgWWsypzLA | 
+ | average | integral calculus<br/><br/>highschool physics | abbreviation<br/><br/>mover | mi avg<br/><br/>mover $1 ¯ |  |  | https://youtu.be/wdAgEzdkFZI?t=20<br/><br/>https://www.khanacademy.org/science/high-school-physics/one-dimensional-motion-2/average-and-instantaneous-acceleration-2/a/acceleration-review-article-ap1?modal=1 | 
+ | repeating-digits | integral calculus | mstack | mstack msline $1 |  | $1 repeating<br/>where the digits $1 keep on repeating | https://youtu.be/2BgWWsypzLA | 
  | nth-derivative | integral calculus | msup | msup $1 mrow ( $2 ) |  | $2-th derivative of $1 | https://youtu.be/RRYh4cqv6ZQ | 
  | remainder-function | integral calculus | function | mi R |  |  | https://youtu.be/wgkRH5Uoavk?t=206 | 
  | error-function | integral calculus | function | mi E |  |  | https://youtu.be/wgkRH5Uoavk?t=206 | 
@@ -203,7 +203,7 @@
  | yield | chemistry | infix | mo → | reaction? | $1 yields $2<br/>$1 forms $2<br/>$1 reacts to form $2 | https://youtu.be/__zy-oOLPug?t=561 | 
  | catalyst | chemistry | symbol | mi C |  |  | https://youtu.be/__zy-oOLPug?t=561 | 
  | increase? | chemistry | postfix | mo ↑ |  | $1 goes up<br/>$1 increases<br/>higher $1<br/>increase of $1 | https://youtu.be/__zy-oOLPug?t=795 | 
- | genotype | genetics | mrow | mrow<br/> msup C R<br/> msup C W<br/>/mrow |  | - | https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-non-mendelian-inheritance/a/multiple-alleles-incomplete-dominance-and-codominance?modal=1<br/><br/>https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-non-mendelian-inheritance/a/pleiotropy-lethal-alleles-and-sex-linkage?modal=1 | 
+ | genotype | genetics | mrow | mrow<br/>msup C R<br/>msup C W<br/>/mrow |  | - | https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-non-mendelian-inheritance/a/multiple-alleles-incomplete-dominance-and-codominance?modal=1<br/><br/>https://www.khanacademy.org/science/high-school-biology/hs-classical-genetics/hs-non-mendelian-inheritance/a/pleiotropy-lethal-alleles-and-sex-linkage?modal=1 | 
  | base-pair | genetics | postfix unit | mi bp |  |  | https://youtu.be/_EYsykjsfiY?t=407<br/><br/>https://en.wikipedia.org/wiki/Base_pair#Length_measurements | 
  | kilo-base-pair | genetics | postfix unit | mi kb<br/>mi kbp |  |  | https://en.wikipedia.org/wiki/Base_pair#Length_measurements | 
  | mega-base-pair | genetics | postfix unit | mi Mb<br/>mi Mbp |  |  | https://en.wikipedia.org/wiki/Base_pair#Length_measurements | 

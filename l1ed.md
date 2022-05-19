@@ -1,5 +1,5 @@
 
- | 
+ 
  |  | Subject | Form | Known notation | Alias | Speech Hints | Sources | 
  |  |  |  |  |  |  |  | 
  | number | G1 math | constant | mn |  |  |  | 

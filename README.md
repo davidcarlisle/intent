@@ -11,6 +11,9 @@
 
 ### GH-Pages
 
+https://davidcarlisle.github.io/intent/
+
+
 * [Level 1](l1) Curated list of core concepts
 * [Level 2](l2) Curated list of extended concepts
 * [Level 3](https://github.com/davidcarlisle/intent/wiki/l3) **Open** list of  concepts. This is a world writable wiki page writable by ayone with a GitHub accout.

@@ -44,6 +44,17 @@ Level 3 should be **world writable**, but hard for me to test that, feel free to
 
 This is under my account for now but if there is interest in this I would move it (possibly to [MathML Refresh](https://mathml-refresh.github.io/) ?) so anyone  in the Working Group has write access.
 
+---
 
+I'm not at all sure this is the right interface. In particular it
+suffers from similar issues to the original spreadsheet, offering
+people write access to a 1000 line table may discourage contributions
+and probably lead to breakage.
+
+It might be better not to offer write
+access to existing entries and instead just have a form to allow
+contributions of new entries. However I am not sure if we have free access of a
+host that could support that. Hard to tell without trying,
+which is why I encourage people to try editing here.
 
 

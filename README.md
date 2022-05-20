@@ -42,7 +42,7 @@ They could obviously be regenerated as org mode links if we decide to use this.
 
 Level 3 should be **world writable**, but hard for me to test that, feel free to try editing. (This whole reposiory is discardable, would regenerate from source if it is to be used.
 
-This is under my account for now but if there is interest in this I would move it (possibly to [MathML Refresh](https://mathml-refresh.github.io/) ?) so anyone  the WG has write access to Level 1 and Level 2, and this Introduction, etc.
+This is under my account for now but if there is interest in this I would move it (possibly to [MathML Refresh](https://mathml-refresh.github.io/) ?) so anyone  in the Working Group has write access.
 
 
 

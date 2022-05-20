@@ -40,9 +40,9 @@ syntax does work but linebreaks `<br>` and links `[text](url)` do not.
 They could obviously be regenerated as org mode links if we decide to use his.
 (`textsyle` and `creole` formats also work for wiki tables if we don't  want `org mode`.)
 
-Level 3 should be **world writable**, but hard for me to test that,feel free to try editing. (This whole reposiory is discardable, would regenerate from source if it is to be used.
+Level 3 should be **world writable**, but hard for me to test that, feel free to try editing. (This whole reposiory is discardable, would regenerate from source if it is to be used.
 
-This is under my account for now but if there is interest in this I would move it (possibly to [MathML Refresh](https://mathml-refresh.github.io/) ? so anyone  the WG had write access to L1 and L2, and this Intro, etc.
+This is under my account for now but if there is interest in this I would move it (possibly to [MathML Refresh](https://mathml-refresh.github.io/) ?) so anyone  the WG had write access to L1 and L2, and this Intro, etc.
 
 
 

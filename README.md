@@ -31,7 +31,7 @@ Sheet 4 (Level 1 CMML) could of course  be added
 The conversion is currently the most trivial possible to basic markdown
 tables and styled with the default github pages styling with no theme
 or custom style at all. Obviously more style and/or table sorting
-options could be added if we decide to use this at all.
+options could be added if we decide to use this.
 
 GitHub Wiki markdown doesn't seem to support markdown tables, so Level 3 is
 declared to be `org mode`, which means that currently the table
@@ -51,10 +51,10 @@ suffers from similar issues to the original spreadsheet, offering
 people write access to a 1000 line table may discourage contributions
 and probably lead to breakage.
 
-It might be better not to offer write
-access to existing entries and instead just have a form to allow
-contributions of new entries. However I am not sure if we have free access of a
-host that could support that. Hard to tell without trying,
-which is why I encourage people to try editing here.
+It might be better not to offer write access to existing entries and
+instead just have a form to allow contributions of new
+entries. However I am not sure if we have free access to a host that
+could support that. Hard to tell without trying, which is why I
+encourage people to try editing here.
 
 

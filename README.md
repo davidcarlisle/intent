@@ -11,7 +11,7 @@
 
 ### GH-Pages
 
-https://davidcarlisle.github.io/intent/
+<https://davidcarlisle.github.io/intent/>
 
 
 * [Level 1](l1ed) Curated list of core concepts
